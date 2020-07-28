@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Pro_Key\Pro_Key\obj\Debug\Pro_Key.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pro_Key\Pro_Key\obj\Debug\Pro_Key.Form1.resources
+C:\Users\User\source\repos\Pro_Key\Pro_Key\obj\Debug\Pro_Key.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pro_Key\Pro_Key\bin\Debug\Pro_Key.exe.config
+C:\Users\User\source\repos\Pro_Key\Pro_Key\bin\Debug\Pro_Key.exe
+C:\Users\User\source\repos\Pro_Key\Pro_Key\bin\Debug\Pro_Key.pdb
+C:\Users\User\source\repos\Pro_Key\Pro_Key\obj\Debug\Pro_Key.Properties.Resources.resources
+C:\Users\User\source\repos\Pro_Key\Pro_Key\obj\Debug\Pro_Key.exe
+C:\Users\User\source\repos\Pro_Key\Pro_Key\obj\Debug\Pro_Key.pdb
